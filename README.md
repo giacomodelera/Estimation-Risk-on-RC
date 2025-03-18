@@ -1,6 +1,6 @@
 # Estimation Risk on Regulatory Capital
 
-# Abstract
+## Abstract
 The set of international banking regulations mandates that banks maintain a minimum capital reserve as a safeguard against potential future losses, which are primarily influenced by two factors: stochastic variables risk and the uncertainty inherent in the chosen model itself.
 
 In this project, the Vasicek model was applied to a homogeneous portfolio to focus on the measurement of portfolio credit risk. Additionally, the risks associated with errors in model parameters were examined, and the impact of each parameter’s uncertainty on capital requirements was assessed.
@@ -15,7 +15,7 @@ Both an asymptotic homogeneous portfolio (LHP) and a homogeneous portfolio (HP) 
 
 Additionally, the regulatory capital derived from the Standard model was compared to that obtained through the IRB model, which is the primary focus of this discussion.
 
-# Repository Structure
+## Repository Structure
 For a better understanding of the work, please refer to the attached [Report](Report.pdf). 
 It contains:
 * A deeper description of the problem
